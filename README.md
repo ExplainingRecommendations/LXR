@@ -5,7 +5,8 @@ The LXR framework is based on an explainer model which is trained in order to pr
 
 ## A general overview 
 
-![image](https://user-images.githubusercontent.com/130644098/233769872-571f3fd4-e02d-40ec-b3b4-16675db379eb.png)
+![LTR_model_2 (1)](https://user-images.githubusercontent.com/130644098/233772191-7252b1a1-da3e-482f-91d3-50318a511459.png)
+
 
 ## Repository
 
@@ -25,7 +26,7 @@ Before running the code, make sure to install all required packages and supporte
 ## Usage
 
 To use this code, follow these steps:
-+ Create data to work with by running the Data_preparation notebook.
++ Create data to work with by running the Data_preprocessing notebooks.
 + Run either the MF or VAE notebooks that contain notebooks with these models.
 
 ## Baselines
