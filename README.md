@@ -21,7 +21,8 @@ This repository contains code for a Learning to eXplain Recommendations (LXR) fr
 
 ## Requirements
 
-Before running the code, make sure to install all required packages and supported versions listed in the requirements.txt file.
+* python 3.10
+* Pytorch 1.13
 
 ## Usage
 
