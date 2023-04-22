@@ -14,11 +14,8 @@ This repository contains code for a Learning to eXplain Recommendations (LXR) fr
 ## Folders
 
 * Data: contains the raw files for both datasets.
-
 * Data_preprocessing: contains code related to the preprocessing step for preparing data to run with our models.
-
 * MF: contains code related to model evaluation on MF.
-
 * VAE: contains code related to model evaluation on VAE.
 
 ## Requirements
@@ -28,8 +25,8 @@ Before running the code, make sure to install all required packages and supporte
 ## Usage
 
 To use this code, follow these steps:
-+Create data to work with by running the Data_preparation notebook.
-+Run either the MF or VAE notebooks that contain notebooks with these models.
++ Create data to work with by running the Data_preparation notebook.
++ Run either the MF or VAE notebooks that contain notebooks with these models.
 
 ## Baselines
 
