@@ -31,9 +31,9 @@ To use this code, follow these steps:
 
 ## Baselines
 
-In the Data_preprocessing folder, you can find a LIME Python file that implements LIME. For SHAP, we used the Python shap package. Keep in mind that you should create a WrapCustomModel for your specific model that you want to explain (your recommender). This takes as input your original input and transforms it into n_clusters dimension. Then after running your model, it should transform your results to num_items dimension to be passed to SHAP's KernelExplainer. 
-All other classical baselines are oart of the main notebooks.
-
+* The Data_preprocessing folder contains a Python file for LIME implementation.
+* We utilized Python's shap package for SHAP, using the KernelExplainer, and passing transformed data (in clusters dimension).
+* The remaining classical baselines are included in the main notebooks.
 
 
 
