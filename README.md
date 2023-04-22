@@ -18,7 +18,6 @@ This repository contains code for a Learning to eXplain Recommendations (LXR) fr
 * **Data_preprocessing**: contains code related to the preprocessing step for preparing data to run with our models.
 * **MF**: contains code related to model evaluation on MF.
 * **VAE**: contains code related to model evaluation on VAE.
-* **Baselines**: contains a Python file for LIME implementation. We utilized Python's shap package for SHAP, using the KernelExplainer, and passing transformed   data (in clusters dimension). The remaining classical baselines are included in the main notebooks under MF and VAE folders.
 
 ## Requirements
 
