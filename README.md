@@ -5,7 +5,7 @@ The LXR framework is based on an explainer model which is trained in order to pr
 
 ## A general overview 
 
-![LTR_model_2 (1)](https://user-images.githubusercontent.com/130644098/233772191-7252b1a1-da3e-482f-91d3-50318a511459.png)
+![LXR_diagram](https://github.com/ExplainingRecommendations/LXR/assets/130644098/ec92edb8-4996-4e46-b1ce-f5795b8e53ef)
 
 
 ## Repository
