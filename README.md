@@ -8,7 +8,7 @@ LXR is a model-agnostic, post-hoc framework to explain recommender systems. LXR 
 
 ## Repository
 
-This repository contains code for a Learning to eXplain Recommendations (LXR) framework that was evaluated on two publicly available benchmarks, MovieLens1M and a subset of Yahoo!Music dataset, using two different recommenders, Matrix Factorization (MF) and Variational Auto Encoder (VAE). Hyperparameters optimization was done using optuna.
+This repository contains code for a Learning to eXplain Recommendations (LXR) framework that was evaluated on three publicly available benchmarks, MovieLens1M, a subset of Yahoo!Music dataset and a subset of Pinterest dataset, using two different recommenders, Matrix Factorization (MF) and Variational Auto Encoder (VAE). Hyperparameters optimization was done using optuna.
 
 ## Folders
 
