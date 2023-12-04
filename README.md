@@ -4,7 +4,8 @@ LXR is a model-agnostic, post-hoc framework to explain recommender systems. LXR 
 
 ## A general overview 
 
-![last_model](https://github.com/ExplainingRecommendations/LXR/assets/130644098/7b3e1511-f3d6-40c9-9563-d6583b0aaee8)
+![last_model](https://github.com/ExplainingRecommendations/LXR/assets/130644098/977c24da-4a93-4110-bd12-fee0221e151d)
+
 
 ## Repository
 
