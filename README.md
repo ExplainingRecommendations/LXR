@@ -28,7 +28,7 @@ This repository contains code for a Learning to eXplain Recommendations (LXR) fr
 To use this code, follow these steps:
 + Create data to work with by running the Data_preprocessing notebooks.
 + Run either the MF or VAE notebooks that contain notebooks with these models.
-+ In order to reproduce results from the paper without creating all files that are required for running the algorithm itself, they can be downloaded from [here](https://drive.google.com/drive/folders/1wMXgP0x4BRHGMX7fky8C2ohBOBMoRJdk?usp=sharing).
++ In order to reproduce results from the paper without creating all files that are required for running the algorithm itself, please download all files from [here](https://drive.google.com/drive/folders/1wMXgP0x4BRHGMX7fky8C2ohBOBMoRJdk?usp=sharing) to Data_preprocessing folder.
 
 
 
